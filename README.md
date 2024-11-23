@@ -1,2 +1,2 @@
-# AD_File_Services
-The objective of this lab is to set up file services and file sharing in active directory. Also to implement quotas and file screening using file server resource manager.
+
+![image](https://github.com/user-attachments/assets/f03721fe-96a5-4a19-bf34-c2976871849c)
